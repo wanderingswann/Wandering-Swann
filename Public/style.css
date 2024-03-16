@@ -2,8 +2,7 @@ html{
     background-color: black; 
     border: 1px solid white;
         border-top: 0px;
-        border-bottom: 0px;
-    
+        border-bottom: 0px;  
 }
 
 h1{
@@ -28,6 +27,7 @@ p{
     text-align: center;
     font-family: "kalam", cursive;
 }
+
 .mainlink{
     color: antiquewhite;
     display: inline-block; margin: 270px; padding: 2px; -moz-column-count: 3;
@@ -37,7 +37,8 @@ p{
     border: 1px solid;
         border-radius: 30%;
         padding: 10px;
-}       
+} 
+
 hr{
     color: antiquewhite;
 }
@@ -48,17 +49,20 @@ footer{
     font-family: "kalam", cursive;
 
 }
+
 .cake{
     display: block;
     margin-left: auto;
     margin-right: auto;
     
 }
+
 ul{
     display: block;
     text-align: center;
     list-style-position: inside;
 }
+
 .contact{
     display: block;
     padding-top: 50px;
@@ -67,4 +71,8 @@ ul{
 
 .maintitle {
     word-spacing: 650px;
+}
+
+.mainh3{
+    
 }
